@@ -1,5 +1,6 @@
 # SAPPHIRE-SHOPPING-WEBSITE
 This is a Ecommerce Website. I created this using front end technologies like html,css javascript. This is a responsive Website.
+By clicking on shopmen and shopwomen buttons u will be directed to another wepage .
 I have uploaded some screenshots.
 
 ![Capture](https://user-images.githubusercontent.com/91307741/180406092-25f3d11c-6739-4862-ab7e-49b7f347368b.PNG)
